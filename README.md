@@ -1,5 +1,4 @@
 # Full-Project-Proposal
-# Full-Project-Proposal
 ####Sentence
 ####Sentence
 ####Sentence
