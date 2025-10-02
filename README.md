@@ -1,8 +1,8 @@
 # Full-Project-Proposal
-####Sentence
-####Sentence
-####Sentence
-###Features
+#### Sentence
+#### Sentence
+#### Sentence
+### Features
 * One
 * Two
 * Three
