@@ -7,4 +7,4 @@
 * Two
 * Three
 
-Link https://kierusse.github.io/Full-Project-Proposal
+https://kierusse.github.io/Full-Project-Proposal
