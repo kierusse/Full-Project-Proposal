@@ -12,7 +12,7 @@ body {background-color: #4166F5;
 .socials {
   display: flex;
   gap: 30px;
-  font-size: 50px;
+  font-size: 24px;
   justify-content: center
   margin-top: 40px;
   color: white;
@@ -39,6 +39,7 @@ a[href="index.html"] {
 
 [href="index.html"] {
   font-size: 24px;}
+
 
 
 
