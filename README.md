@@ -8,4 +8,4 @@
 * Two
 * Three
 
-https://kierusse.github.io/fullprojectproposal
+https://kierusse.github.io/Full-Project-Proposal
