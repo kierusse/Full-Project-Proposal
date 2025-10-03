@@ -30,7 +30,6 @@ The first page hosts the music player and the second page hosts my social media 
 #### Exclusions
 
 Since this project focuses on building upon the foundation of an HTML and CSS webpage with the addition of audio, the webpage will initially be void of: 
-* Javascript
 * Comments, message, or chat functions
 * A custom domain (website will be hosted from the free github platform)
 
@@ -50,4 +49,5 @@ Instructor Greg Gamel will sign off on the project on 03OCT25 when it includes:
 * a two-page website prototype (HTML \& CSS) that is live and functional on the web and hosted by GitHub Pages
 * a comprehensive repository README.md file to introduce and explain my new website project
 * navigation on and between each page without confusion
+
 
