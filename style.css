@@ -1,12 +1,29 @@
-body {background-color: #4166F5 !important;}
+body {background-color: #4166F5 !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
 
 .socials {
-  margin-bottom: 20px; /* adds space below “My socials!” */
+  margin-bottom: 20px; 
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
 }
 
+.socials {
+  font-size: 50px;
+  color: #;
+        
 .bold-text {
   font-weight: bold;
+  color: #1b031f;
 }
+
+
 
 
 
