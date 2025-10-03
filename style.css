@@ -1,4 +1,4 @@
-body {background-color: light blue;}
+body {background-color: #4166F5;}
 
 .socials {
   margin-bottom: 20px; /* adds space below “My socials!” */
@@ -7,4 +7,5 @@ body {background-color: light blue;}
 .bold-text {
   font-weight: bold;
 }
+
 
