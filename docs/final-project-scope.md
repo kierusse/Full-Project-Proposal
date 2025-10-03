@@ -1,6 +1,6 @@
 ## FINAL PROJECT SCOPE STATEMENT
 
-#### *Project Name: Kierstin's Music Player*
+#### *Project Name: Kiki's Mix*
 
 #### Project Purpose
 
@@ -49,6 +49,7 @@ Instructor Greg Gamel will sign off on the project on 03OCT25 when it includes:
 * a two-page website prototype (HTML \& CSS) that is live and functional on the web and hosted by GitHub Pages
 * a comprehensive repository README.md file to introduce and explain my new website project
 * navigation on and between each page without confusion
+
 
 
 
