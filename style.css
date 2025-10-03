@@ -1,8 +1,6 @@
 body {background-color: #4166F5;
-  display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   margin: 0;}
 
 .socials-wrapper {
@@ -41,6 +39,7 @@ a[href="index.html"] {
 
 [href="index.html"] {
   font-size: 24px;}
+
 
 
 
