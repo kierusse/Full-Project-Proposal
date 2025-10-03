@@ -4,7 +4,7 @@ body {background-color: #4166F5;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin: 0;
+  margin: 0;}
 
 .socials {
   margin-bottom: 20px; 
@@ -12,16 +12,14 @@ body {background-color: #4166F5;
   gap: 30px;
   justify-content: center;
   align-items: center;
-}
-
-.socials {
   font-size: 50px;
-  color: #;
+  color: #;}
         
 .bold-text {
   font-weight: bold;
   color: #1b031f;
 }
+
 
 
 
