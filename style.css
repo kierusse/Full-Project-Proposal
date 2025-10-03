@@ -12,8 +12,8 @@ body {background-color: #4166F5;
 .socials {
   display: flex;
   gap: 30px;
-  font-size: 24px;
-  justify-content: center
+  font-size: 50px;
+  justify-content: center;
   margin-top: 40px;
   color: white;
 }
@@ -21,6 +21,7 @@ body {background-color: #4166F5;
 .bold-text {
   font-weight: bold;
   color: #1b031f;
+  font-size: 24px
 }
 
 body {
@@ -39,6 +40,7 @@ a[href="index.html"] {
 
 [href="index.html"] {
   font-size: 24px;}
+
 
 
 
