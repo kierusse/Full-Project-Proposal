@@ -10,5 +10,5 @@ This is a list of content and features I would like to add to my website, in no 
 * Song of the Day
 ### Features
 * Accessibility
-* Mobile-friendly layout
-* Click-to-zoom on photos
+* Album cover artist credit
+* Song Queue
