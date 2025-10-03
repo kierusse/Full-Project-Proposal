@@ -25,7 +25,22 @@ body {background-color: #4166F5;
   color: #1b031f;
 }
 
+body {
+  position: relative;}
 
+a[href="index.html"] {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;}
+
+[href="index.html"] {
+  font-size: 24px;}
 
 
 
