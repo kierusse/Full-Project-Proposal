@@ -1,9 +1,1 @@
-My project proposal process,  creating the new GitHub repository, writing and refining the scope and plan documents, building the two-page small website prototype.
-
-What went well
-
-What went wrong
-
-
-What I would do differently
-
+Reflecting on my project proposal process, I learned through mistakes and constant research. Creating the new GitHub repository posed a new challenge, where I had trouble uploading files from my local drive to the repository and damage controlled using VSCode's built-in merge editor and Github's editing capabilities. Writing and refining the scope and plan documents were the simpler part of the project because the results could be abstract while following clear-cut instructions in the readings and assignment objectives. Peer feedback on the scope was extremely helpful in making adjustments toward a final product. I read the thoughtful comments and learned more about what would be helpful to someone reading my project proposal from an outside persepctive, as well as what I did not want to include based off of their suggestions. Building the two-page small website prototype felt somewhat more challenging than the first website, most likely because I gave myself less time to style it how I would like. Of course, being a prototype, a "perfect" finished product is not expected, and that is difficult for me to accept. I found a progress point that I was satisfied with submitting and look forward to developing the music player more as I learn new programming languages. If I could change my overall process, I would have followed a more logical order of operations, completing the plan immediately after the scope and using the momentum from the outline to dive into the coding. I would also practice or review previous coding to refamiliarize with the process of making a website so I do not spend excessive time on getting back up to speed. Overall, I am pleased with the results of my first full project proposal and can't wait to share more!
